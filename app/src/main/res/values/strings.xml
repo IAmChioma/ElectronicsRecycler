@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ElectronicsRecycler</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price :</string>
+    <string name="color">Color :</string>
+    <string name="todo">TODO</string>
+</resources>
