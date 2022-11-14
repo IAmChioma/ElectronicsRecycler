@@ -4,4 +4,8 @@
     <string name="price">Price :</string>
     <string name="color">Color :</string>
     <string name="todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="shop_by_categories">Shop by Categories</string>
+    <string name="electronics">Electronics</string>
+    <string name="welcome_msg">Welcome hello@gmail.com</string>
 </resources>
